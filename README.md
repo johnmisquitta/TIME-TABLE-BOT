@@ -1,6 +1,6 @@
 # TIME-TABLE-BOT
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1X7pxp5Pk3tB7bcODzl5ufkhn3J2FIpKm/view)
+[![Watch the video](https://github.com/johnmisquitta/TIME-TABLE-BOT/blob/main/images/bot_1.png)](https://drive.google.com/file/d/1X7pxp5Pk3tB7bcODzl5ufkhn3J2FIpKm/view)
 
 ## 🤖 About the Project
 
