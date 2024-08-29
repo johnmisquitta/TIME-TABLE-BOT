@@ -70,5 +70,5 @@ Once the bot is running on your server, users can interact with it using specifi
 - **Add Resources:**
   ```bash
   !resource <subject_name> <timings>
-  ![My Image](images/discord_5.png)
+  ![TIME-TABLE-BOT](images/discord_5.png)
 
