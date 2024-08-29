@@ -9,9 +9,9 @@ This Discord chatbot is designed to help students and educators manage their cla
 
 ## ✨ Features
 
-- **AI-Powered Responses:** The bot uses OpenAI's GPT model to understand and respond to user questions, providing informative and context-aware answers.
 - **Schedule Management:** Teachers can add, view, and manage lecture schedules directly from Discord. Students can easily check their schedule for any day of the week.
 - **Resource Management:** Teachers can upload subject notes or resource files. Students can easily retrieve these files by requesting them with a simple command.
+- **AI-Powered Responses:** The bot uses OpenAI's GPT model to understand and respond to user questions, providing informative and context-aware answers.
 
 ## 🛠️ Installation
 
