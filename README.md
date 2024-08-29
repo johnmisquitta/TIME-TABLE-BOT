@@ -53,26 +53,30 @@ Once the bot is running on your server, users can interact with it using specifi
 
 - **Ask a Question:**
   ```bash
-  !ask How do black holes work?
+  !ask How are you?
   ![My Image](images/discord_1.png)
 
 - **Check Schedule:**
   ```bash
-  !schedule
+  !schedule Monday
+  ```
   ![My Image](images/discord_2.png)
 
 - **Find Resources:**
   ```bash
   !resource <subject_name>
+  ```
   ![My Image](images/discord_3.png)
 
 - **Add Schedule:**
   ```bash
   !addschedule <day-date> <schedule>
+  ```
   ![My Image](images/discord_4.png)
 
 - **Add Resources:**
   ```bash
   !resource <subject_name> <timings>
+  ```
   ![My Image](images/discord_5.png)
 
