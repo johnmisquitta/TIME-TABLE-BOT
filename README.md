@@ -5,14 +5,13 @@
 
 ## 🤖 About the Project
 
-This Discord bot is designed to bring the power of AI to your server! By integrating OpenAI's GPT model, the bot can respond to user queries with insightful and creative answers. Additionally, it can generate images based on user prompts, manage schedules, and handle subject resources, providing a rich and interactive experience directly within Discord.
+This Discord chatbot is designed to help students and educators manage their class schedules, store notes, and access relevant study materials seamlessly through a Discord server. The bot functions as a digital assistant within the server, allowing users to interact with it through simple text commands.
 
 ## ✨ Features
 
 - **AI-Powered Responses:** The bot uses OpenAI's GPT model to understand and respond to user questions, providing informative and context-aware answers.
 - **Schedule Management:** Teachers can add, view, and manage lecture schedules directly from Discord. Students can easily check their schedule for any day of the week.
 - **Resource Management:** Teachers can upload subject notes or resource files. Students can easily retrieve these files by requesting them with a simple command.
-- **Interactive Commands:** A variety of commands are available to interact with the bot, making it a versatile tool for any Discord server.
 
 ## 🛠️ Installation
 
@@ -20,7 +19,7 @@ To get the bot up and running on your Discord server, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/discord-ai-bot.git
+    git clone https://github.com/johnmisquitta/TIME-TABLE-BOT.git
     cd discord-ai-bot
     ```
 
@@ -55,3 +54,19 @@ Once the bot is running on your server, users can interact with it using specifi
 - **Ask a Question:**
   ```bash
   !ask How do black holes work?
+
+- **Check Schedule:**
+  ```bash
+  !schedule
+
+- **Find Resources:**
+  ```bash
+  !resource <subject_name>
+
+- **Add Schedule:**
+  ```bash
+  !addschedule <day-date> <schedule>
+
+- **Add Resources:**
+  ```bash
+  !resource <subject_name> <timings>
