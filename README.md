@@ -1,11 +1,12 @@
 # TIME-TABLE-BOT
 
+## 🤖 About the Project
+This Discord chatbot is designed to help students and educators manage their class schedules, store notes, and access relevant study materials seamlessly through a Discord server. The bot functions as a digital assistant within the server, allowing users to interact with it through simple text commands.
+
+## 🤖 Watch  Video
 [![Watch the video](images/discord_play.png)](https://drive.google.com/file/d/1X7pxp5Pk3tB7bcODzl5ufkhn3J2FIpKm/view)
 
 
-## 🤖 About the Project
-
-This Discord chatbot is designed to help students and educators manage their class schedules, store notes, and access relevant study materials seamlessly through a Discord server. The bot functions as a digital assistant within the server, allowing users to interact with it through simple text commands.
 
 ## ✨ Features
 
